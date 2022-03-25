@@ -4,6 +4,6 @@ I am currently learning UIKIt and SwiftUI. Passionate for developing apps for iO
 
 - 🔭 I’m currently working on ...Spotify clone
 - 🌱 I’m currently learning ...UIKit and SwiftUI
-- 👯 I’m looking to collaborate
+- 👯 I’m always looking to collaborate
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about about iOS
