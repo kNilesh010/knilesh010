@@ -1,4 +1,4 @@
-### Hi I am Nilesh 👋
+### Hi, I am Nilesh 👋
 
 I am currently learning UIKIt and SwiftUI. Passionate for developing apps for iOS and iPads.
 
