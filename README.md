@@ -1,9 +1,7 @@
 ### Hi, I am Nilesh 👋
 
-I am currently learning UIKIt and SwiftUI. Passionate for developing apps for iOS and iPads.
+I am an iOS developer. Passionate for developing apps for iOS and iPads.
 
-- 🔭 I’m currently working on ...Spotify clone
-- 🌱 I’m currently learning ...UIKit and SwiftUI
+- 🔭 I’m currently working on ...Weather app
 - 👯 I’m always looking to collaborate
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about about iOS
+- 💬 Ask me anything about iOS
