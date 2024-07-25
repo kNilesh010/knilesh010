@@ -1,7 +1,7 @@
 ### Hi, I am Nilesh 👋
 
-I am an iOS developer. Passionate for developing apps for iOS and iPads.
+I am a part time web app devloper and full-time performance lead engineer.
 
-- 🔭 I’m currently working on Trivia app
+- 🔭 I’m currently working on SaaS application
 - 👯 I’m always looking to collaborate
-- 💬 Ask me anything about iOS
+- 💬 Ask me anything about Performance and networking
